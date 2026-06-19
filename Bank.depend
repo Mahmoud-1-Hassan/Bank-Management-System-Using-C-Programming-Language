@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1732468473 source:e:\programs\codeblocks\projects\scanf\bank\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
